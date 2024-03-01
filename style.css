@@ -372,6 +372,11 @@ article .icon{
    width: 90%;
    height: 90%;
 }
+.prjt-video{
+   border-radius: 2rem;
+   width: 90%;
+   height: 90%;
+}
 
 .project-title{
    margin: 1rem;
@@ -423,6 +428,9 @@ article .icon{
 .email-icon{
    height: 2.5rem;
 }
+
+
+
 
 /* FOOTER SECTION */
 
